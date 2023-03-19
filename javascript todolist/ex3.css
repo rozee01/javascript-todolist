@@ -1,0 +1,19 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lavender;
+}
+h1{
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#content,#nom{
+    width: 80%;
+    margin: 8px 0;
+    padding: 12px 20px;
+}
+/* #button{
+    background-color: navy;
+    color: white;
+} */
